@@ -16,13 +16,4 @@ A modern GUI text editor built using Python and Tkinter.
 - Python
 - Tkinter
 
-## DEMO 
-
-![Modern Text Editor Screenshot](screenshot.png)
-
-Screenshot 2026-02-15 232851.png
-Screenshot 2026-02-15 232907.png
-Screenshot 2026-02-15 232926.png
-Screenshot 2026-02-15 232950.png
-
 Made with ❤️ by Pawan Patil
